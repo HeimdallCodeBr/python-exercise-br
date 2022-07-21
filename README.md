@@ -1,1 +1,1 @@
-# Resolução Exercicios Python Brasil
+# Estudo Python
